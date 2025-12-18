@@ -88,7 +88,7 @@ CREATE DATABASE hotel_db;
 USE hotel_db;
 
 
-##😂 How to Run
+## 🏃‍♂️ How to Run
 
 - MySQL constraints enforced:
     - PRIMARY KEY
