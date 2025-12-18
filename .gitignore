@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+out/
+target/
+
+# Config files (VERY IMPORTANT)
+src/resources/config.properties
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
